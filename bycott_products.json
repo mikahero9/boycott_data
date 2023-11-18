@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "McDonald's",
+        "description": "McDonald's Corporation is an American multinational fast food chain, founded in 1940 as a restaurant operated by Richard and Maurice McDonald,United States.",
+        "logo": "mcdonalds.jpg",
+        "notes": "",
+        "categories": [
+            "food",
+            "drink",
+            "food and beverage"
+        ],
+        "boycott_reason": "McDonalds Israel supports IDF by providing free food and drinks to Israeli militants. See tweet (click translate) for reference. McDonalds chairman and CEO Jack M. Greenberg is an honorary director of the American-Israel Chamber of Commerce and Industry, Inc., of Metropolitan Chicago",
+        "proofs": [
+            {
+                "link": "https://twitter.com/McDonaldsIL/status/1715047104895230153",
+                "screenshot": "mac_tweet_image.jpeg"
+            },
+            {
+                "link": "https://twitter.com/McDonaldsIL/status/1715047104895230153",
+                "screenshot": "mcdonalds_wrapping.jpeg"
+            }
+        ],
+        "alternatives_by_country": [
+            {
+                "country": "Turkey",
+                "products": [
+                    {
+                        "name": "Etci Mehmet Burger",
+                        "logo": "",
+                        "info": ""
+                    },
+                    {
+                        "name": "Burger Yiyelim",
+                        "logo": "",
+                        "info": ""
+                    }
+                ]
+            },
+            {
+                "country": "Egypt",
+                "products": [
+                    {
+                        "name": "Moa'men Burger",
+                        "logo": "",
+                        "info": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
